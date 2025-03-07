@@ -5,8 +5,8 @@ This paper conducts experiments on all widely used datasets of glass surfaces, i
 
 ![示例图片](https://github.com/chaoyanSEU/Glass_surface_detect_dataset/blob/main/%E5%9B%BE%E7%89%872.png)
 <br> During the actual measurement process, in order to comprehensively evaluate the performance of the model on the mobile device, we collected and formed a dataset of the production line environment of the intelligent factory in a university, which contains a total of 700 images. This dataset covers indoor office environments, indoor factory areas, indoor corridor environments, large indoor glass walls, large outdoor glass curtain walls, and outdoor corridor environments, and includes curtain wall glass, window glass, and protective glass for machinery and equipment. Figure 8 depicts the typical scenarios involved in the actual test process.
-![示例图片]（https://github.com/chaoyanSEU/Glass_surface_detect_dataset/blob/main/%E5%9B%BE%E7%89%878.png）
-References
+![示例图片](https://github.com/chaoyanSEU/Glass_surface_detect_dataset/blob/main/%E5%9B%BE%E7%89%878.png)
+<br>References
 <br>[1] Mei H, Yang X, Wang Y, et al. Don't hit me! glass detection in real-world scenes[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 3687-3696.
 <br>[2] Yu L, Mei H, Dong W, et al. Progressive glass segmentation[J]. IEEE Transactions on Image Processing, 2022, 31: 2920-2933.
 <br>[3] Lin J, He Z, Lau R W H. Rich context aggregation with reflection prior for glass surface detection[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021: 13415-13424.
