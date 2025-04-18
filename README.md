@@ -11,6 +11,3 @@ This paper conducts experiments on all widely used datasets of glass surfaces, i
 <br>[2] Yu L, Mei H, Dong W, et al. Progressive glass segmentation[J]. IEEE Transactions on Image Processing, 2022, 31: 2920-2933.
 <br>[3] Lin J, He Z, Lau R W H. Rich context aggregation with reflection prior for glass surface detection[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021: 13415-13424.
 <br>[4] Xie E, Wang W, Wang W, et al. Segmenting transparent objects in the wild[C]//Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XIII 16. Springer International Publishing, 2020: 696-711.
-
-<br>cite:
-<br> Yan C, Zhang H, Ye F, et al. Performance Analysis of Glass Surface Detection Based on the YOLOs[J]. Current Science, 2025, 5(2): 1679-1693.
